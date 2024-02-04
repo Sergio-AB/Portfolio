@@ -40,7 +40,7 @@ export const Projects = () => {
       title: "Todo-list",
       description: "Design & Development",
       imgUrl: projImg5,
-      link: "https://sergio-ab.github.io/To-Do-List-con-react/"
+      link: "https://sergio-ab.github.io/React-todo-list/"
     },
     {
       title: "App-Weather",
