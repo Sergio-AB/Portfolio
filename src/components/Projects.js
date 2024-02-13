@@ -5,6 +5,9 @@ import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
 import projImg4 from "../assets/img/project-img4.png";
 import projImg5 from "../assets/img/project-img5.png";
+import projImg6 from "../assets/img/project-img6.png";
+import projImg7 from "../assets/img/project-img7.png";
+import projImg8 from "../assets/img/project-img8.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -13,28 +16,28 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business Startup",
+      title: "Pizza-web",
       description: "Design & Development",
-      imgUrl: projImg1,
-      link: "https://github.com/Sergio-AB/Portafolio-Sergio-Ardila/blob/master/index.html"
+      imgUrl: projImg8,
+      link: "https://sergio-ab.github.io/pizza-web/"
     },
     {
-      title: "Business Startup",
+      title: "Web de envios",
       description: "Design & Development",
       imgUrl: projImg2,
-      link: "https://github.com/Sergio-AB/Portafolio-Sergio-Ardila/blob/master/index.html"
+      link: "https://sergio-ab.github.io/Dise-o-responsivo/"
     },
     {
-      title: "Business Startup",
+      title: "Bitcoin-web",
       description: "Design & Development",
-      imgUrl: projImg3,
-      link: "https://github.com/Sergio-AB/Portafolio-Sergio-Ardila/blob/master/index.html"
+      imgUrl: projImg7,
+      link: "https://sergio-ab.github.io/Bitcoin-web/"
     },
     {
-      title: "Business Startup",
+      title: "Lego clone web",
       description: "Design & Development",
-      imgUrl: projImg1,
-      link: "https://github.com/Sergio-AB/Portafolio-Sergio-Ardila/blob/master/index.html"
+      imgUrl: projImg6,
+      link: "https://sergio-ab.github.io/pagina-lego/"
     },
     {
       title: "Todo-list",
